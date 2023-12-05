@@ -1,0 +1,5 @@
+/Users/michaelmoser/Downloads/assignment 3/cmake-build-debug/CMakeFiles/model.dir
+/Users/michaelmoser/Downloads/assignment 3/cmake-build-debug/CMakeFiles/interactive.dir
+/Users/michaelmoser/Downloads/assignment 3/cmake-build-debug/CMakeFiles/testrunner.dir
+/Users/michaelmoser/Downloads/assignment 3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/michaelmoser/Downloads/assignment 3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
